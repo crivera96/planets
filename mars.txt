@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Cold and dry but everything is my favorite color
 its cold outside be careful
 But the Mummy will be fine 
-The weather outside is frightful, but the fire is so delightful. 
+We removed the conflict on this line. 
+=======
+Cold and dry, but everything is my favorite color
+The two moons may be a problem for Wolfman
+But the Mummy will appreciate the lack of humidity
+We removed the conflict on this line.
+>>>>>>> upstream/master
